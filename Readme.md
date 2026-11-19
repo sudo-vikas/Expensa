@@ -28,7 +28,7 @@ A simple expense tracker built with Python and pandas. I made this project to pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Expensa.git
+   git clone https://github.com/sudo-vikas/Expensa.git
    cd Expensa
    ```
 
