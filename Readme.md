@@ -9,7 +9,7 @@ A simple expense tracker built with Python and pandas. I made this project to pr
 - Data is saved so it's still there next time you run the app
 - Basic summary of spending (total, by category)
 
-> Edit this list to match what your project actually does.
+
 
 ## Tech Stack
 
@@ -49,7 +49,6 @@ A simple expense tracker built with Python and pandas. I made this project to pr
 python main.py
 ```
 
-> Replace `main.py` with the name of your main file.
 
 ## Usage
 
