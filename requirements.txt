@@ -1,2 +1,1 @@
-panda
-pyhton3
+pandas
